@@ -33,7 +33,7 @@ More coming soon...
 ## 📜 Certificate
 
 ### ✅ Java Project Completion Certificate  
-![Certificate](https://raw.githubusercontent.com/TehhleelMiraj/Java-Student-Management/main/certificate_preview.jpg)
+![Certificate](https://raw.githubusercontent.com/TehhleelMiraj/Java-Student-Management/main/certificate_preview.jpg)s
 
 ---
 
