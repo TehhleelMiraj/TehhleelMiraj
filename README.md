@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Tehleel Miraj
 
-<!--
-**TehhleelMiraj/TehhleelMiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Technology Student | 💻 Java & Web Developer | 📍 Islamabad, Pakistan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+I’m a passionate young developer (17 y/o) learning full-stack web development and Java.  
+I build real-world projects, work hard, and grow fast.
+
+---
+
+## 🚀 Skills
+
+- ✅ HTML, CSS, JavaScript (Frontend)
+- ✅ Java (Core + OOP + Mini Projects)
+- ✅ Git & GitHub (Version Control)
+- ✅ VS Code, Eclipse IDE
+
+---
+
+## 📂 My Projects
+
+### 🧑‍🎓 Java Student Management System  
+A Java console-based project to manage student records with OOP.  
+🔗 [View Project](https://github.com/TehhleelMiraj/Java-Student-Management)
+
+More coming soon...
+
+---
+
+## 📜 Certificate
+
+### ✅ Java Project Completion Certificate  
+![Certificate](https://raw.githubusercontent.com/TehhleelMiraj/Java-Student-Management/main/certificate_preview.jpg)
+
+---
+
+## 📫 Contact Me
+
+- Email: `tehleelmiraj710@gmail.com`
+- GitHub: [TehhleelMiraj](https://github.com/TehhleelMiraj)
+
+---
+
+> 🚀 Always learning. Always building. Ready for the future!
+
